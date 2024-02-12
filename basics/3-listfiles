@@ -1,0 +1,2 @@
+#!/bin/bash emmanuel@emmanuel-ThinkPad-X1-Carbon-Gen-9:~/holbertonschool-shell/basics$ ls -l
+total 16 -rw-rw-r-- 1 emmanuel emmanuel  38 feb 12 17:42 0-current_working_directory
