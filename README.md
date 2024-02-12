@@ -1,3 +1,5 @@
+#!/bin/bash
+
 Repository's name:
 
          holbertonschool-shell
