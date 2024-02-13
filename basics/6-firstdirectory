@@ -1,1 +1,2 @@
-#!/bin/bash emmanuel@emmanuel-ThinkPad-X1-Carbon-Gen-9:~/holbertonschool-shell/basics$ my_first_directory$ mkdir /tmp/my_first_directory
+#!/bin/bash 
+mkdir tmp/my_first_directory
