@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 400 /permissions/hello 
+sudo chmod 400 /permissions/hello 
