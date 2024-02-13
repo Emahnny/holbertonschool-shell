@@ -1,1 +1,1 @@
-#!/bin/bash emmanuel@emmanuel-ThinkPad-X1-Carbon-Gen-9:~/holbertonschool-shell$ ls -la .. total 124 drwxr-xr-x 21 emmanuel emmanuel  4096 feb 12 16:55  .
+#!/bin/bash emmanuel@emmanuel-ThinkPad-X1-Carbon-Gen-9:~/holbertonschool-shell$ ls -la 
