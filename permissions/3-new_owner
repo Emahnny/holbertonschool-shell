@@ -1,2 +1,2 @@
-#!/bim/bash
-chown
+#!/bin/bash
+chown hello betty
