@@ -1,2 +1,2 @@
-#!/bin/bash pwd emmanuel@emmanuel-ThinkPad-X1-Carbon-Gen-9:~/holbertonschool-shell/basics$ ls-current_working_directory  1-listit  README.md
-
+#!/bin/bash 
+pwd
