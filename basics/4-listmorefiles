@@ -1,0 +1,1 @@
+#!/bin/bash mmanuel@emmanuel-ThinkPad-X1-Carbon-Gen-9:~/holbertonschool-shell/basics$ ls -a .  .. 0-current_working_directory  1-listit  2-bring_me_home  3-listfiles  README.md
