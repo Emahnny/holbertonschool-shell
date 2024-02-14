@@ -1,0 +1,12 @@
+drwxrwxr-x 2 emmanuel emmanuel  4096 feb 14 13:29 .
+drwxrwxr-x 6 emmanuel emmanuel  4096 feb 14 13:11 ..
+-rwxrw-r-- 1 emmanuel emmanuel    33 feb 14 10:26 0-hello_world
+-rwxrw-r-- 1 emmanuel emmanuel    24 feb 14 10:49 1-confused_smiley
+-rwxrw-r-- 1 emmanuel emmanuel    28 feb 14 10:58 2-hellofile
+-rwxrw-r-- 1 emmanuel emmanuel    39 feb 14 11:06 3-twofiles
+-rwxrw-r-- 1 emmanuel emmanuel    29 feb 14 11:11 4-lastlines
+-rwxrw-r-- 1 emmanuel emmanuel    29 feb 14 11:14 5-firstlines
+-rwxrw-r-- 1 emmanuel emmanuel    41 feb 14 11:59 6-third_line
+-rwxrw-r-- 1 emmanuel emmanuel   100 feb 14 13:29 7-file
+-rw------- 1 emmanuel emmanuel 12288 feb 14 13:04 .echo.swp
+-rw-rw-r-- 1 emmanuel emmanuel    66 feb 14 10:21 README.md
